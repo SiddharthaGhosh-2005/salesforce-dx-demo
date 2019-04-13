@@ -3,6 +3,8 @@
 #
 
 package.xml
+.sfdx/
+.vscode/
 
 # LWC configuration files
 **/jsconfig.json
